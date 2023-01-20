@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: lightblue;
+}
+
+.nav ul {
+    display: flex;
+    width: 100vw;
+    height: 85px;
+    background-color: indianred;
+    list-style-type: none;
+    align-items: center;
+    
+}
+
+ul li a {
+    margin: 15px;
+    text-decoration: none;
+    font-size: larger;
+    color: white;
+    padding: 4px;
+    border: 2px solid indianred;
+}
+
+ul li a:hover {
+    color: black;
+}
+
+.container, h1, p{
+    margin: 15px;
+
+}
+img{
+    width: 500px;
+    height: 300px;
+    margin: 15px 25px;
+}
+

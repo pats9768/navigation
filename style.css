@@ -34,6 +34,11 @@ ul li a:hover {
     margin: 15px;
 
 }
+
+.container_1, h1, p{
+    margin: 15px;
+
+}
 img{
     width: 500px;
     height: 300px;
